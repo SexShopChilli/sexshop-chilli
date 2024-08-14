@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chilli - Sexshop w Elblągu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Chilli - Sexshop w Elblągu</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#lokalizacje">Nasze Punkty</a></li>
+            <li><a href="#kontakt">Kontakt</a></li>
+            <li><a href="#galeria">Galeria</a></li>
+        </ul>
+    </nav>
+
+    <section id="lokalizacje">
+        <h2>Nasze Punkty</h2>
+        <p>Znajdziesz nas w następujących lokalizacjach:</p>
+        <ul>
+            <li>Elbląg, ul.1 Maja 33</li>
+            <li>Elbląg, ul. Hetmańska5/1 </li>
+        </ul>
+    </section>
+
+    <section id="kontakt">
+        <h2>Kontakt</h2>
+        <p>Telefon: <a href="tel:55 623 82 23">000 000 000</a></p>
+        <p>Odwiedź nas na mediach społecznościowych:</p>
+        <ul>
+            <li><a href="https://www.facebook.com/sklepchilli/?locale=pl_PL" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/sexshopchilli_elblag/" target="_blank">Instagram</a></li>
+        </ul>
+    </section>
+
+    <section id="galeria">
+        <h2>Galeria</h2>
+        <div class="gallery">
+            <img src="zdjecie1.jpg" alt="Zdjęcie 1">
+            <img src="zdjecie2.jpg" alt="Zdjęcie 2">
+            <img src="zdjecie3.jpg" alt="Zdjęcie 3">
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Chilli. Wszystkie prawa zastrzeżone.</p>
+    </footer>
+</body>
+</html>
